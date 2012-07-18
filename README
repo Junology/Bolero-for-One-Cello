@@ -1,0 +1,9 @@
+Bolero for One Cello
+
+Stringfeverという団体がチェロ一本に四人が取りついてラヴェルのボレロを演奏していたのを真似して、高校時代に余興でやるために編曲したもの。
+本家：http://www.youtube.com/watch?v=H5MLNMgpywk&feature=related
+曲の構成は本家そのままですが、音は耳コピではなく、普通のチェロで弾けるように編曲しなおしてあります。
+
+楽譜作成に以下のソフトウェアを仕様しました。
+LilyPond
+http://www.lilypond.org/
